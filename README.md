@@ -2,7 +2,7 @@
 
 Project website for SpecWM, a world model trained to preserve teacher-defined similarities between observations.
 
-[Website](https://td-worldmodel.github.io/spectral_alignment/) · [Paper](dist/assets/SpectralAlignment.pdf)
+[Website](https://td-worldmodel.github.io/spectral_alignment/)
 
 ## Local preview
 
